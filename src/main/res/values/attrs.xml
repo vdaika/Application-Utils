@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="aboutView">
+        <attr name="aboutViewStyle">
+            <enum name="model" value="0"/>
+            <enum name="simple" value="1"/>
+        </attr>
+        // application detail
+        <attr name="aboutViewAppIcon" format="integer"/>
+        <attr name="aboutViewAppName" format="string"/>
+        <attr name="aboutViewAppVersion" format="string"/>
+        <attr name="aboutViewAppDescription" format="string"/>
+        <attr name="aboutViewIcon" format="integer"/>
+
+        // developer detail
+
+
+        // contact detail
+    </declare-styleable>
+</resources>

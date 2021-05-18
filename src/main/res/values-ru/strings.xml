@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "string_common_rating_dialog_experience"> Каким был ваш опыт работы с нами? </string>
+    <string name = "string_common_rating_dialog_maybe_later"> Возможно, позже </string>
+    <string name = "string_common_rating_dialog_never"> Никогда </string>
+    <string name = "string_common_rating_dialog_feedback_title"> Обратная связь </string>
+    <string name = "string_common_rating_dialog_submit"> Отправить </string>
+    <string name = "string_common_rating_dialog_cancel"> Отмена </string>
+    <string name = "string_common_rating_dialog_suggestions"> Предложите нам, что пошло не так, и мы над этим поработаем! </string>
+    <string name = "string_common_email"> vyanutils@gmail.com </string>
+    <string name = "string_common_about_us"> О нас </string>
+    <string name = "string_common_mail_to"> mailto </string>
+    <string name = "string_common_my_feedback"> Мой отзыв: </string>
+    <string name = "string_common_say_hi"> Привет, команда VyanUtils! </string>
+    <string name = "string_common_send_email"> Отправить письмо ... </string>
+    <string name = "string_common_feedback"> Отправьте нам свой отзыв на электронную почту: </string>
+    <string name = "string_common_thanks"> Спасибо и всего наилучшего вам! </string>
+    <string name = "string_common_rate"> Оценить </string>
+    <string name = "string_common_share"> Поделиться </string>
+    <string name = "string_common_upgrade_vip"> Обновить vip </string>
+    <string name = "string_common_user_guide"> Руководство пользователя </string>
+    <string name = "string_common_communicate"> Связь </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_common_rating_dialog_experience">Cómo fue su experiencia con nosotros?</string>
+    <string name="string_common_rating_dialog_maybe_later">Quizás luego</string>
+    <string name="string_common_rating_dialog_never">Nunca</string>
+    <string name="string_common_rating_dialog_feedback_title">Sugerencias</string>
+    <string name="string_common_rating_dialog_submit">Enviar</string>
+    <string name="string_common_rating_dialog_cancel">Cancelar</string>
+    <string name="string_common_rating_dialog_suggestions">Explicanos que salió mal y trabajaremos en ello!</string>
+    <string name="string_common_email">vyanutils@gmail.com</string>
+    <string name = "string_common_about_us"> Acerca de nosotros </string>
+    <string name = "string_common_mail_to"> mailto </string>
+    <string name = "string_common_my_feedback"> Mi comentario: </string>
+    <string name = "string_common_say_hi"> Hola equipo VyanUtils! </string>
+    <string name = "string_common_send_email"> Enviar correo electrónico ... </string>
+    <string name = "string_common_feedback"> Envíenos sus comentarios al correo electrónico: </string>
+    <string name = "string_common_thanks"> ¡Gracias y le deseo lo mejor! </string>
+    <string name="string_common_rate">Tarifa</string>
+    <string name="string_common_share">Compartir</string>
+    <string name="string_common_upgrade_vip">Actualizar vip</string>
+    <string name="string_common_user_guide">Guía del usuario</string>
+    <string name="string_common_communicate">Comunicar</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_common_rating_dialog_experience">Bạn cảm thấy thế nào về ứng dụng?</string>
+    <string name="string_common_rating_dialog_maybe_later">Để sau</string>
+    <string name="string_common_rating_dialog_never">Không bao giờ</string>
+    <string name="string_common_rating_dialog_feedback_title">Phản hồi</string>
+    <string name="string_common_rating_dialog_submit">Gửi</string>
+    <string name="string_common_rating_dialog_cancel">Hủy</string>
+    <string name="string_common_rating_dialog_suggestions">Gợi ý cho chúng tôi vấn đề chưa tốt.</string>
+    <string name="string_common_email">vyanutils@gmail.com</string>
+    <string name="string_common_about_us">Về chúng tôi</string>
+    <string name="string_common_mail_to">gửi email tới</string>
+    <string name="string_common_my_feedback">Phản hồi của tôi:</string>
+    <string name="string_common_say_hi">Ch àoVyanUtils!</string>
+    <string name="string_common_send_email">Gửi email...</string>
+    <string name="string_common_feedback">Gửi chúng tôi phản hồi qua email:</string>
+    <string name="string_common_thanks">Cảm ơn bạn rất nhiều!</string>
+    <string name="string_common_rate">Đánh giá</string>
+    <string name="string_common_share">Chia sẻ</string>
+    <string name="string_common_upgrade_vip">Nâng cấp vip</string>
+    <string name="string_common_user_guide">Hướng Dẫn</string>
+    <string name="string_common_communicate">Kết nối</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "string_common_rating_dialog_experience"> Comment s\'est passée votre expérience avec nous? </string>
+    <string name = "string_common_rating_dialog_maybe_later"> Peut-être plus tard </string>
+    <string name = "string_common_rating_dialog_never"> Jamais </string>
+    <string name = "string_common_rating_dialog_feedback_title"> Commentaires </string>
+    <string name = "string_common_rating_dialog_submit"> Soumettre </string>
+    <string name = "string_common_rating_dialog_cancel"> Annuler </string>
+    <string name = "string_common_rating_dialog_suggestions"> Suggérez-nous ce qui ne va pas et nous y travaillerons! </string>
+    <string name = "string_common_email"> vyanutils@gmail.com </string>
+    <string name = "string_common_about_us"> À propos de nous </string>
+    <string name = "string_common_mail_to"> mailto </string>
+    <string name = "string_common_my_feedback"> Mon commentaire: </string>
+    <string name = "string_common_say_hi"> Bonjour l\'équipe de VyanUtils! </string>
+    <string name = "string_common_send_email"> Envoyer un email ... </string>
+    <string name = "string_common_feedback"> Envoyez-nous vos commentaires par courrier électronique: </string>
+    <string name = "string_common_thanks"> Merci et meilleur souhait pour vous! </string>
+    <string name = "string_common_rate"> Rate </string>
+    <string name = "string_common_share"> Partager </string>
+    <string name = "string_common_upgrade_vip"> vip de mise à niveau </string>
+    <string name = "string_common_user_guide"> Guide de l\'utilisateur </string>
+    <string name = "string_common_communicate"> Communiquer </string>
+</resources>
